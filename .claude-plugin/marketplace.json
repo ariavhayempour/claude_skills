@@ -1,0 +1,19 @@
+{
+  "name": "ariav-skills",
+  "owner": {
+    "name": "Ariav Hayempour",
+    "email": "admin@jsapartners.co"
+  },
+  "metadata": {
+    "description": "Ariav's personal Claude Code skills and workflows",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "personal",
+      "source": "./plugins/personal",
+      "description": "Personal skills: commit, comment-cleanup, dev-report, issue",
+      "version": "0.1.0"
+    }
+  ]
+}
